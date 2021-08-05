@@ -3,7 +3,7 @@
 
 name = print("Nada Hussien Arafa") #name
 email = print("nada.hussien73@gmail.com") #email
-username = "@Nada_Hussien_Arafa" #slack: @user name 
+username = "@NadaHussienArafa" #slack: @user name 
 biostack = print("Biotechnology") #biostack
 twitter = "@Nada_Hussien_" #Twitter username 
 
